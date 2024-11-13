@@ -1,4 +1,2 @@
 Second file added
 working on second file
-
-Checking on diff command
