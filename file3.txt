@@ -1,4 +1,2 @@
 Hello just checking if revert command is working or not
 
-Now again adding changes, this line should revert/vanish
-
