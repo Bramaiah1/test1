@@ -1,4 +1,0 @@
-This is first file in gitbash Unix
-another commit for testing
-second commit
-
